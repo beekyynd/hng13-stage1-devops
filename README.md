@@ -159,7 +159,3 @@ To completely remove the app and configuration from the remote server:
 ## 🧠 Author
 
 **Francis Kalu**
-
----
-
-Good luck, Cool Keed! 🧑‍💻🔥
